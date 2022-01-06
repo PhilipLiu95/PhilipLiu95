@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilipLiu95
-- 👀 I’m interested in learning as much as I can
+- 👀 I’m interested in learning various techniques to help me develop a better understanding surrounding computing and engineering
 - 🌱 I’m currently learning all types of programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Phil.j.liu@gmail.com
